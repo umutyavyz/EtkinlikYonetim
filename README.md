@@ -20,19 +20,19 @@ Bu proje, etkinlik organizasyonlarının dijital ortamda kolayca yönetilmesini 
 ## 🖥️ Ekran Görüntüleri
 
 ### Giriş Ekranı
-![Giriş Ekranı](login.png)
+![Giriş Ekranı](screenshots/login.png)
 
 ### Kullanıcı Kayıt Ekranı
-![Kullanıcı Kayıt](user_register.png)
+![Kullanıcı Kayıt](screenshots/user_register.png)
 
 ### Etkinliğe Katılım Ekranı
-![Etkinliğe Katılım](event_register.png)
+![Etkinliğe Katılım](screenshots/event_register.png)
 
 ### Admin Paneli
-![Admin Paneli](admin_panel.png)
+![Admin Paneli](screenshots/admin_panel.png)
 
 ### Katılımcı Listesi
-![Katılımcı Listesi](shows_members.png)
+![Katılımcı Listesi](screenshots/shows_members.png)
 
 ## 🛠️ Kullanılan Teknolojiler
 
