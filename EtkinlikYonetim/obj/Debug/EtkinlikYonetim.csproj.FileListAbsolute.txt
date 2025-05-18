@@ -27,3 +27,32 @@ C:\Users\umuty\OneDrive\Masaüstü\yeni projeler ayberk\EtkinlikYonetim\Etkinlik
 C:\Users\umuty\OneDrive\Masaüstü\yeni projeler ayberk\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.exe
 C:\Users\umuty\OneDrive\Masaüstü\yeni projeler ayberk\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.pdb
 C:\Users\umuty\OneDrive\Masaüstü\yeni projeler ayberk\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.KatilimciGoruntule.resources
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\EtkinlikYonetim.exe.config
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\EtkinlikYonetim.exe
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\EtkinlikYonetim.pdb
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\ReaLTaiizor.dll
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\System.Buffers.dll
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\System.Memory.dll
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\ReaLTaiizor.xml
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\System.Buffers.xml
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\System.Memory.xml
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.csproj.AssemblyReference.cache
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.Form1.resources
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.GirisYapForm.resources
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.KatilimciEkleForm.resources
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.KatilimciGoruntule.resources
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.KayitEkleForm.resources
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.KayitOlForm.resources
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.Properties.Resources.resources
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.csproj.GenerateResource.cache
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.csproj.CoreCompileInputs.cache
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\Etkinlik.7212DAC9.Up2Date
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.exe
+C:\Users\umuty\OneDrive\Belgeler\GitHub\EtkinlikYonetim\EtkinlikYonetim\obj\Debug\EtkinlikYonetim.pdb

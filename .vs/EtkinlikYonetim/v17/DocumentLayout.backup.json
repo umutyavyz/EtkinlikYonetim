@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\",
+  "WorkspaceRootPath": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\yeni projeler ayberk\\etkinlikyonetim\\etkinlikyonetim\\katilimcigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\katilimcigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\yeni projeler ayberk\\etkinlikyonetim\\etkinlikyonetim\\katilimcigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|c:\\users\\umuty\\onedrive\\belgeler\\github\\etkinlikyonetim\\etkinlikyonetim\\katilimcigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\katilimcigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\yeni projeler ayberk\\etkinlikyonetim\\etkinlikyonetim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\etkinlikyonetim\\katilimcigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\katilimcigoruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\yeni projeler ayberk\\etkinlikyonetim\\etkinlikyonetim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\yeni projeler ayberk\\etkinlikyonetim\\etkinlikyonetim\\girisyapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\girisyapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\yeni projeler ayberk\\etkinlikyonetim\\etkinlikyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\yeni projeler ayberk\\etkinlikyonetim\\etkinlikyonetim\\katilimciekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\etkinlikyonetim\\katilimciekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\katilimciekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\yeni projeler ayberk\\etkinlikyonetim\\etkinlikyonetim\\kayitekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\etkinlikyonetim\\kayitekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\kayitekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\yeni projeler ayberk\\etkinlikyonetim\\etkinlikyonetim\\katilimciekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\etkinlikyonetim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\etkinlikyonetim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\etkinlikyonetim\\girisyapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\girisyapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\etkinlikyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\etkinlikyonetim\\katilimciekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\katilimciekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\yeni projeler ayberk\\etkinlikyonetim\\etkinlikyonetim\\girisyapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\etkinlikyonetim\\girisyapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\girisyapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|c:\\users\\umuty\\onedrive\\masa\u00FCst\u00FC\\yeni projeler ayberk\\etkinlikyonetim\\etkinlikyonetim\\kayitekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\etkinlikyonetim\\kayitekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{74199973-1DBD-4D44-90C8-7567E9E63711}|EtkinlikYonetim\\EtkinlikYonetim.csproj|solutionrelative:etkinlikyonetim\\kayitekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -54,16 +54,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "KatilimciGoruntule.cs",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciGoruntule.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciGoruntule.cs",
               "RelativeDocumentMoniker": "EtkinlikYonetim\\KatilimciGoruntule.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciGoruntule.cs*",
-              "RelativeToolTip": "EtkinlikYonetim\\KatilimciGoruntule.cs*",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciGoruntule.cs",
+              "RelativeToolTip": "EtkinlikYonetim\\KatilimciGoruntule.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAgwEgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T11:27:29.569Z",
@@ -71,128 +71,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "KatilimciGoruntule.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciGoruntule.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciGoruntule.cs",
               "RelativeDocumentMoniker": "EtkinlikYonetim\\KatilimciGoruntule.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciGoruntule.cs [Tasar\u0131m]*",
-              "RelativeToolTip": "EtkinlikYonetim\\KatilimciGoruntule.cs [Tasar\u0131m]*",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciGoruntule.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EtkinlikYonetim\\KatilimciGoruntule.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-17T11:21:54.335Z",
               "EditorCaption": " [Tasar\u0131m]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\Program.cs",
               "RelativeDocumentMoniker": "EtkinlikYonetim\\Program.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\Program.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\Program.cs",
               "RelativeToolTip": "EtkinlikYonetim\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T11:02:00.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GirisYapForm.cs",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\GirisYapForm.cs",
-              "RelativeDocumentMoniker": "EtkinlikYonetim\\GirisYapForm.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\GirisYapForm.cs",
-              "RelativeToolTip": "EtkinlikYonetim\\GirisYapForm.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAcwEIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:19:16.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\Form1.cs",
-              "RelativeDocumentMoniker": "EtkinlikYonetim\\Form1.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\Form1.cs",
-              "RelativeToolTip": "EtkinlikYonetim\\Form1.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAhwF4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:21:46.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\Form1.cs",
-              "RelativeDocumentMoniker": "EtkinlikYonetim\\Form1.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\Form1.cs [Tasar\u0131m]",
-              "RelativeToolTip": "EtkinlikYonetim\\Form1.cs [Tasar\u0131m]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:50:51.319Z",
-              "EditorCaption": " [Tasar\u0131m]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "KayitEkleForm.cs",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KayitEkleForm.cs",
-              "RelativeDocumentMoniker": "EtkinlikYonetim\\KayitEkleForm.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KayitEkleForm.cs",
-              "RelativeToolTip": "EtkinlikYonetim\\KayitEkleForm.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAhwFUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:42:00.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T11:02:00.784Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "GirisYapForm.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\GirisYapForm.cs",
+              "RelativeDocumentMoniker": "EtkinlikYonetim\\GirisYapForm.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\GirisYapForm.cs",
+              "RelativeToolTip": "EtkinlikYonetim\\GirisYapForm.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:19:16.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\Form1.cs",
+              "RelativeDocumentMoniker": "EtkinlikYonetim\\Form1.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\Form1.cs",
+              "RelativeToolTip": "EtkinlikYonetim\\Form1.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAhwF4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:21:46.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\Form1.cs",
+              "RelativeDocumentMoniker": "EtkinlikYonetim\\Form1.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:50:51.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KayitEkleForm.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\KayitEkleForm.cs",
+              "RelativeDocumentMoniker": "EtkinlikYonetim\\KayitEkleForm.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\KayitEkleForm.cs",
+              "RelativeToolTip": "EtkinlikYonetim\\KayitEkleForm.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAhwFUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:42:00.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "KatilimciEkleForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciEkleForm.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciEkleForm.cs",
               "RelativeDocumentMoniker": "EtkinlikYonetim\\KatilimciEkleForm.cs",
               "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciEkleForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "EtkinlikYonetim\\KatilimciEkleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciEkleForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:38:51.779Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-05-17T10:38:51.779Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "GirisYapForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\GirisYapForm.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\GirisYapForm.cs",
               "RelativeDocumentMoniker": "EtkinlikYonetim\\GirisYapForm.cs",
               "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\GirisYapForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "EtkinlikYonetim\\GirisYapForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\GirisYapForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:00:01.95Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-05-17T10:00:01.95Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "KatilimciEkleForm.cs",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciEkleForm.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciEkleForm.cs",
               "RelativeDocumentMoniker": "EtkinlikYonetim\\KatilimciEkleForm.cs",
-              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciEkleForm.cs",
+              "ToolTip": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\KatilimciEkleForm.cs",
               "RelativeToolTip": "EtkinlikYonetim\\KatilimciEkleForm.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAAQwGoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:01:27.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T10:01:27.343Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "KayitEkleForm.cs [Tasar\u0131m]",
-              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KayitEkleForm.cs",
+              "DocumentMoniker": "C:\\Users\\umuty\\OneDrive\\Belgeler\\GitHub\\EtkinlikYonetim\\EtkinlikYonetim\\KayitEkleForm.cs",
               "RelativeDocumentMoniker": "EtkinlikYonetim\\KayitEkleForm.cs",
               "ToolTip": "C:\\Users\\umuty\\OneDrive\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KayitEkleForm.cs [Tasar\u0131m]",
-              "RelativeToolTip": "EtkinlikYonetim\\KayitEkleForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\Masa\u00FCst\u00FC\\yeni projeler ayberk\\EtkinlikYonetim\\EtkinlikYonetim\\KayitEkleForm.cs [Tasar\u0131m]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T10:41:57.575Z",
-              "EditorCaption": " [Tasar\u0131m]"
+              "WhenOpened": "2025-05-17T10:41:57.575Z"
             }
           ]
         }
